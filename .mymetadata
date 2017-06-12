@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="mavenHelloTest"
+  id="myeclipse.1497254352081"
+  context-root="/mavenHelloTest"
+  j2ee-spec="6.0"
+  archive="mavenHelloTest.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
